@@ -1,0 +1,9 @@
+.main {
+    width: 500px;
+}
+.block {
+    width: 50%;
+    float: left;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
